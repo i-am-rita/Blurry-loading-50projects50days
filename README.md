@@ -1,2 +1,2 @@
 # Blurry-loading-50projects50days
-#50projects50days
+Dynamic blurry loading page.
